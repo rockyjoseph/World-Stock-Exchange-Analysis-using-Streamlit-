@@ -1,0 +1,7 @@
+seaborn
+plolty
+matplolib
+numpy
+pandas
+streamlit
+-e.
